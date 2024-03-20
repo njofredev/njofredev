@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hi friend, I'm Nicolás Jofré Andrade </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D49F7&center=true&vCenter=true&random=false&width=435&lines=Python+Full+stack+developer;Python+enjoyer;SQL+enjoyer" alt="Typing SVG" /></a></div>
+
+## About me:
 <ul>
   <li>👋 Hi, I’m @njofredev</li>
   <li>🐍 I am an aspiring full-stack Python developer and computer engineer  </li>
@@ -9,7 +11,7 @@
   <li>📚 I am interested in using artificial intelligence with Python and utilizing libraries in this language</li>
 </ul>
 
-#### A little more about me
+#### A little more about me:
 ```python
 class Njofredev():
   def __init__(self, name, surname, email, phone):
