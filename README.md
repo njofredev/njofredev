@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center"><b>Hi friend, I'm Nicolás Jofré Andrade </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**njofredev/njofredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D49F7&center=true&vCenter=true&random=false&width=435&lines=Full+stack+developer+Python;Python+enjoyer;SQL+enjoyer" alt="Typing SVG" /></a></div>
+<ul>
+  <li>👋 Hi, I’m @njofredev</li>
+  <li>🐍 I am an aspiring full-stack Python developer and computer engineer  </li>
+  <li>🌱 I’m currently learning Web Development, Python, PostgreSQL, Django, HTML, CSS, and JS</li>
+  <li>📈 I'm characterized by my dedication to learn new trends | Enthuastic about new technologies </li>
+  <li>📚 I am interested in using artificial intelligence with Python and utilizing libraries in this language</li>
+</ul>
 
-Here are some ideas to get you started:
+#### A little more about me
+```python
+class Njofredev():
+  def __init__(self, name, surname, email, phone):
+    self.name = name
+    self.surname = surname
+    self.email = email
+    self.phone = phone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  def get_data(self):
+    return f'My name is: {self.name}, my surname: {self.surname}, my email: {self.email} and my phone is: {self.phone}'
+# init
+njofre = Njofredev("Nicolás", "Jofré Andrade", "n.jofreandrade@gmail.com", "+569 5755 89 66")
+print(njofre.get_data())  
+
+```
