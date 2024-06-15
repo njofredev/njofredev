@@ -5,10 +5,10 @@
 ## About me:
 <ul>
   <li>👋 Hi, I’m @njofredev | Check my page! https://njofredev.github.io</li>
-  <li>🐍 I am an aspiring full-stack Python developer and computer engineer  </li>
-  <li>🌱 I’m currently learning Web Development, Python, PostgreSQL, Django, HTML, CSS, and JS</li>
-  <li>📈 I'm characterized by my dedication to learn new trends | Enthuastic about new technologies </li>
-  <li>📚 I am interested in using artificial intelligence with Python and utilizing libraries in this language</li>
+  <li>🐍 I am an aspiring full-stack Python developer and computer engineer.  </li>
+  <li>🌱 I’m currently learning Web Development, Python, PostgreSQL, Django, HTML, CSS, and JS.</li>
+  <li>📈 I'm characterized by my dedication to learn new trends | Enthuastic about new technologies. </li>
+  <li>📚 I am interested in using artificial intelligence with Python and utilizing libraries in this language.</li>
 </ul>
 
 #### A little more about me:
