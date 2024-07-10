@@ -21,11 +21,11 @@ class Dev():
     self.email = email
     self.telefono = telefono
 
-  def get_informacion(self):
+  def recibir_informacion(self):
     return f'Mi nombre es: {self.nombre}, mi apellido: {self.apellido}, mi email: {self.email} y mi teléfono es: {self.telefono}'
 # 🙋‍♂️
 njofre = Dev("Nicolás", "Jofré Andrade", "n.jofreandrade@gmail.com", "+569 5755 89 66")
-print(njofre.get_informacion())  
+print(njofre.recibir_informacion())  
 
 # Mi nombre es: Nicolás, mi apellido: Jofré Andrade, mi email: n.jofreandrade@gmail.com y mi teléfono es: +569 5755 89 66
 ```
