@@ -4,12 +4,12 @@
 
 ## Sobre mí:
 <ul>
-  <li>👋 Hola, Soy @njofredev | Actualmente encargado TI de Policlínico Tabancura</li>
+  <li>👋 Hola, Soy @njofredev | 🏥 Encargado TI de Policlínico Tabancura. </li>
   <li>💼 Sígueme en mi LinkedIn: https://www.linkedin.com/in/njofreandrade/ </li>
-  <li>🐍 Soy ingeniero en informática, actualmente aprendiendo y desarrollando implementación con API's en diversos ámbitos. </li>
-  <li>🌱 En este momento estoy aprediendo el consumo de API REST con Django REST Framework </li> 
+  <li>🐍 Soy Ingeniero de ejecución en Informática, enfocado en el desarrollo de sistemas. </li>
+  <li>🌱 En este momento estoy aprediendo el consumo de API's con librerías en Python e integración con LLM. </li> 
   <li>📈 Me caracterizo por aprender nuevas tendencias y entusiasmado por las nuevas tecnologías. </li> 
-  <li>📚 Estoy interesado en el uso de inteligencia artificial con Python y el uso de librerias en éste lenguaje.</li> 
+  <li>📚 Estoy interesado en el uso de inteligencia artificial con Python y sus frameworks.</li> 
 </ul>
 
 #### Un poco más sobre mí:
