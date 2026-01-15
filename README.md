@@ -7,8 +7,6 @@
   <li>👋 Hola, Soy @njofredev | 🏥 Encargado TI de Policlínico Tabancura. </li>
   <li>💼 Sígueme en LinkedIn: https://www.linkedin.com/in/njofreandrade/ </li>
   <li>🐍 Soy Ingeniero de ejecución en Informática, enfocado en el desarrollo de sistemas. </li>
-  <li>🌱 En este momento estoy aprediendo el consumo de API's con librerías en Python e integración con LLM's. </li> 
-  <li>📈 Me caracterizo por aprender nuevas tendencias y entusiasmado por las nuevas tecnologías. </li> 
   <li>📚 Estoy interesado en el uso de inteligencia artificial con Python y sus frameworks.</li> 
 </ul>
 
